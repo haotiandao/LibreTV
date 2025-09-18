@@ -22,36 +22,16 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-   
-    dyttzy: {
-      api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
-      name: '电影天堂资源',
-      detail: 'http://caiji.dyttzyapi.com',
-      
-    }',
-    heimuer: {
-      api: 'https://json.heimuer.xyz/api.php/provide/vod',
-      name: '黑木耳',
-      detail: 'https://heimuer.tv',
-      
-    }',
-
+   heimuer: {
+        api: 'https://json.heimuer.xyz',
+        name: '黑木耳',
+        detail: 'https://heimuer.tv',
+    },
     ffzy: {
-      api: 'http://ffzy5.tv/api.php/provide/vod',
-      name: '非凡影视',
-      detail: 'http://ffzy5.tv',
-      
-    }',
-
-    jisu: {
-      api: 'https://jszyapi.com/api.php/provide/vod',
-      name: '极速资源',
-      detail: 'https://jszyapi.com',
-      
-    }',
-    
- 
-
+        api: 'http://ffzy5.tv',
+        name: '非凡影视',
+        detail: 'http://ffzy5.tv',
+    },
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
